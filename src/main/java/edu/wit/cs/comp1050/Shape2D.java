@@ -7,7 +7,7 @@ package edu.wit.cs.comp1050;
  * 
  * DO NOT CHANGE ANY CODE IN THIS FILE
  * 
- * @author Nate Derbinsky
+ * @author Niko Rosich
  */
 public abstract class Shape2D {
 	
